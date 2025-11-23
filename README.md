@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=STUDENT;CTF+ENJOYER;C%2B%2B;PYTHON;JS+%2B+CSS+%2B+HTML" alt="Typing SVG" />
 </p>
 
----
+
 
 
 [![Codewars](https://www.codewars.com/users/alxctf/badges/large)](https://www.codewars.com/users/alxctf)
