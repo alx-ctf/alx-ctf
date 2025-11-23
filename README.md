@@ -35,27 +35,25 @@
 [![Codewars](https://www.codewars.com/users/alxctf/badges/large)](https://www.codewars.com/users/alxctf)
 
 
-### 💻 Языки и технологии
-
+### 💻 langs
 - **C++**  
 - **Python**  
 - **C#**  
 - **JavaScript / HTML / CSS**  
 ---
 
-### 🛠️ Инструменты и STACK
+### 🛠️ stack
 
 
 ---
 
-### 🔒 Проекты
+### 🔒 projs
 
-> (В разработке — но вот что уже есть)
+> (in progress)
 ---
 
-### 📬 Связь
+### 📬 links
 
-- **Telegram**: [@morozovfk](https://t.me/morozovfk)  
-- **Домен**: [ususu.su](https://ususu.su) *(в работе)*  
+- **Telegram**: [@morozovfk](https://t.me/morozovfk)  е)*  
 
 ---
