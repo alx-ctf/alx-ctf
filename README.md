@@ -25,7 +25,10 @@
 
 <h1 align="center">Hello, i am <span style="color:#ff00aa">ALX</span> <sub>(alukxrd | alx.ctf)</sub></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2000&pause=300&color=00FF00&center=true&width=435&lines=STUDENT;CTF+ENJOYER;C%2B%2B;PYTHON;JS%2BHTML%2BCSS" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=STUDENT;CTF+ENJOYER;C%2B%2B;PYTHON;JS+%2B+CSS+%2B+HTML" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 💻 Языки и технологии
