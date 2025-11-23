@@ -53,7 +53,4 @@
 ---
 
 ### 📬 links
-
-- **Telegram**: [@morozovfk](https://t.me/morozovfk)  е)*  
-
----
+- **Telegram**: [link](https://t.me/lukxrd_ctf)
