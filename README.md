@@ -23,7 +23,7 @@
                                                                                                              
 -->
 
-<h1 align="center">Hello, i am <span style="color:#ff00aa">ALX</span> <sub>(alukxrd | alx.ctf)</sub></h1>
+<h1 align="center">Hello, i am <span style="color:#00FF00FF">ALX</span> <sub>(alukxrd | alx.ctf)</sub></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=STUDENT;CTF+ENJOYER;C%2B%2B;PYTHON;JS+%2B+CSS+%2B+HTML" alt="Typing SVG" />
